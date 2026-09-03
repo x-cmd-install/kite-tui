@@ -1,0 +1,56 @@
+about:
+  description: A terminal reader for Kagi News.
+  license: MIT
+  homepage: 
+  head: dad3509
+  archived: false
+  latestVersion: 0.1.1
+  collectedAt: 2026-09-03T04:14:02Z
+timeline:
+  created: 2026-05-22
+  lastCommit: 2026-08-29
+  lastRelease: 2026-05-24
+popularity:
+  star: 20
+  watcher: 1
+  fork: 1
+  release: 2
+  contributor: 1
+  pullRequest: 5
+  issue: 0
+language:
+  Rust: 190401
+totalLine: 190401
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 21
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 22
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 22
+  last180d:
+    since: 2026-03-07
+    release: 2
+    mergedPR: 26
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 61
+  last360d:
+    since: 2025-09-08
+    release: 2
+    mergedPR: 26
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 61
