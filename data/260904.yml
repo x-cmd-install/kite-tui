@@ -7,7 +7,7 @@ about:
   head: dad3509
   archived: false
   latestVersion: 0.1.1
-  collectedAt: 2026-09-04T19:26:45Z
+  collectedAt: 2026-09-04T21:08:09Z
 timeline:
   created: 2026-05-22
   lastCommit: 2026-08-29
@@ -80,5 +80,28 @@ total:
   openIssue: 0
   commit: 62
 ---
+path: /home/runner/.x-repo/github.com/KernelFreeze/kite-tui
+collectedAt: 2026-09-04T21:08:10Z
+loc:
+  Rust:
+    code: 5448
+    comments: 0
+    blanks: 715
+    files: 17
+  Toml:
+    code: 59
+    comments: 8
+    blanks: 4
+    files: 3
+  Markdown:
+    code: 0
+    comments: 131
+    blanks: 50
+    files: 2
+total:
+  code: 5549
+  comments: 167
+  blanks: 774
+  files: 22
 ---
 
