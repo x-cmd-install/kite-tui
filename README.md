@@ -12,6 +12,16 @@ A terminal reader for Kagi News.
 x install kite-tui
 ```
 
+## Code insight
+
+Total: **5,507** lines of code across **22** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 5,448 | 0 | 715 | 17 |
+| Toml | 59 | 8 | 4 | 3 |
+| Markdown | 0 | 131 | 50 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/KernelFreeze/kite-tui>
@@ -22,6 +32,25 @@ x install kite-tui
 - **Latest**: `0.1.1` (2026-05-24)
 - **Last commit**: 2026-09-06
 - **Assets in release**: 16
+
+## Popularity
+
+- **Stars**: 19 · **Forks**: 1 · **Open issues**: 0 · **Contributors**: 1
+
+## Totals (cumulative)
+
+- **Releases**: 2 · **Merged PRs**: 28 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 64
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 15 | 0 | 0 | 0 | 15 |
+| last60d | 2026-07-13 | 0 | 19 | 0 | 0 | 0 | 23 |
+| 90d | 2026-06-13 | 0 | 24 | 0 | 0 | 0 | 23 |
+| last180d | 2026-03-15 | 2 | 28 | 0 | 0 | 0 | 63 |
+| 360d | 2025-09-16 | 2 | 28 | 0 | 0 | 0 | 63 |
+| last720d | 2024-09-21 | 2 | 28 | 0 | 0 | 0 | 64 |
 
 ## Release assets
 
@@ -44,32 +73,6 @@ x install kite-tui
 | [source.tar.gz](https://github.com/KernelFreeze/kite-tui/releases/download/0.1.1/source.tar.gz) | 66.0 KiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/KernelFreeze/kite-tui/releases/download/0.1.1/source.tar.gz.sha256) | 81 B | `other` |
 
-## Popularity
-
-- **Stars**: 19 · **Forks**: 1 · **Open issues**: 0 · **Contributors**: 1
-
-## Totals (cumulative)
-
-- **Releases**: 2 · **Merged PRs**: 28 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 64
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 15 | 0 | 0 | 0 | 15 |
-| 90d | 2026-06-12 | 0 | 24 | 0 | 0 | 0 | 23 |
-| 360d | 2025-09-15 | 2 | 28 | 0 | 0 | 0 | 63 |
-
-## Code size
-
-Total: **5,507** lines of code across **22** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 5,448 | 0 | 715 | 17 |
-| Toml | 59 | 8 | 4 | 3 |
-| Markdown | 0 | 131 | 50 | 2 |
-
 ## Improve this data
 
 Install metadata for kite-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kite-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -79,4 +82,4 @@ Install metadata for kite-tui lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:05:32Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:13:36Z._
