@@ -4,7 +4,7 @@
 
 A terminal reader for Kagi News.
 
-![kite-tui](https://repo.x-cmd.io/kite-tui.svg)
+[![x-cmd/install — kite-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kite-tui.svg)](https://x-cmd.com/install/kite-tui)
 
 ## Install
 
@@ -30,7 +30,7 @@ Total: **5,507** lines of code across **22** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.1.1` (2026-05-24)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-19
 - **Assets in release**: 16
 
 ## Popularity
@@ -39,18 +39,18 @@ Total: **5,507** lines of code across **22** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 29 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 65
+- **Releases**: 2 · **Merged PRs**: 32 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 68
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 11 | 0 | 0 | 0 | 11 |
-| last60d | 2026-07-20 | 0 | 20 | 0 | 0 | 0 | 24 |
-| 90d | 2026-06-20 | 0 | 24 | 0 | 0 | 0 | 24 |
-| last180d | 2026-03-22 | 2 | 29 | 0 | 0 | 0 | 64 |
-| 360d | 2025-09-23 | 2 | 29 | 0 | 0 | 0 | 64 |
-| last720d | 2024-09-28 | 2 | 29 | 0 | 0 | 0 | 65 |
+| 30d | 2026-08-21 | 0 | 9 | 0 | 0 | 0 | 9 |
+| last60d | 2026-07-22 | 0 | 23 | 0 | 0 | 0 | 27 |
+| 90d | 2026-06-22 | 0 | 27 | 0 | 0 | 0 | 27 |
+| last180d | 2026-03-24 | 2 | 32 | 0 | 0 | 0 | 67 |
+| 360d | 2025-09-25 | 2 | 32 | 0 | 0 | 0 | 67 |
+| last720d | 2024-09-30 | 2 | 32 | 0 | 0 | 0 | 68 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for kite-tui lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:28:43Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:44:01Z._
