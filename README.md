@@ -35,7 +35,7 @@ Total: **5,507** lines of code across **22** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22 · **Forks**: 1 · **Open issues**: 0 · **Contributors**: 1
+- **Stars**: 21 · **Forks**: 1 · **Open issues**: 0 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **5,507** lines of code across **22** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 6 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 0 | 22 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 0 | 26 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-03 | 2 | 32 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-05 | 2 | 32 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-10 | 2 | 32 | 0 | 0 | 0 | 68 |
+| 30d | 2026-09-01 | 0 | 6 | 0 | 0 | 0 | 6 |
+| last60d | 2026-08-02 | 0 | 22 | 0 | 0 | 0 | 27 |
+| 90d | 2026-07-03 | 0 | 25 | 0 | 0 | 0 | 27 |
+| last180d | 2026-04-04 | 2 | 32 | 0 | 0 | 0 | 67 |
+| 360d | 2025-10-06 | 2 | 32 | 0 | 0 | 0 | 67 |
+| last720d | 2024-10-11 | 2 | 32 | 0 | 0 | 0 | 68 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for kite-tui lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:21:54Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:36:57Z._
