@@ -39,18 +39,18 @@ Total: **5,507** lines of code across **22** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 36 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 72
+- **Releases**: 2 · **Merged PRs**: 36 · **Open PRs**: 6 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 72
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 7 | 0 | 0 | 0 | 7 |
-| last60d | 2026-08-17 | 0 | 18 | 0 | 0 | 0 | 18 |
-| 90d | 2026-07-18 | 0 | 27 | 0 | 0 | 0 | 31 |
-| last180d | 2026-04-19 | 2 | 36 | 0 | 0 | 0 | 71 |
-| 360d | 2025-10-21 | 2 | 36 | 0 | 0 | 0 | 71 |
-| last720d | 2024-10-26 | 2 | 36 | 0 | 0 | 0 | 72 |
+| 30d | 2026-09-17 | 0 | 7 | 6 | 0 | 0 | 7 |
+| last60d | 2026-08-18 | 0 | 18 | 6 | 0 | 0 | 18 |
+| 90d | 2026-07-19 | 0 | 27 | 6 | 0 | 0 | 31 |
+| last180d | 2026-04-20 | 2 | 36 | 6 | 0 | 0 | 71 |
+| 360d | 2025-10-22 | 2 | 36 | 6 | 0 | 0 | 71 |
+| last720d | 2024-10-27 | 2 | 36 | 6 | 0 | 0 | 72 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for kite-tui lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:18:45Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:09:48Z._
