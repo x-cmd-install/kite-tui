@@ -45,12 +45,12 @@ Total: **5,507** lines of code across **22** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 11 | 0 | 0 | 0 | 11 |
-| last60d | 2026-08-29 | 0 | 17 | 0 | 0 | 0 | 17 |
-| 90d | 2026-07-30 | 0 | 33 | 0 | 0 | 0 | 38 |
-| last180d | 2026-05-01 | 2 | 43 | 0 | 0 | 0 | 78 |
-| 360d | 2025-11-02 | 2 | 43 | 0 | 0 | 0 | 78 |
-| last720d | 2024-11-07 | 2 | 43 | 0 | 0 | 0 | 79 |
+| 30d | 2026-09-29 | 0 | 11 | 0 | 0 | 0 | 11 |
+| last60d | 2026-08-30 | 0 | 17 | 0 | 0 | 0 | 17 |
+| 90d | 2026-07-31 | 0 | 33 | 0 | 0 | 0 | 38 |
+| last180d | 2026-05-02 | 2 | 43 | 0 | 0 | 0 | 78 |
+| 360d | 2025-11-03 | 2 | 43 | 0 | 0 | 0 | 78 |
+| last720d | 2024-11-08 | 2 | 43 | 0 | 0 | 0 | 79 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for kite-tui lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:23:37Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:33:17Z._
